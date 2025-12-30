@@ -9,8 +9,7 @@
 
 ## Skills
 - Proficient in Excel.  
-- Basic Proficiency in R, Python, Git/Github, HTML and CSS.  
-- Currently learning SQL, Database Management Systems (DBMS).
+- Basic Proficiency in R, Python, Git/Github, SQL, Database Management Systems (DBMS), HTML and CSS.  
 
 ## Contact Information
 - [Linkedin](https://www.linkedin.com/in/julia-moyer-86a7b2304/)
